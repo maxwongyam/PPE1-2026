@@ -7,6 +7,7 @@
 - git
 - fetch, push, pull, status, add, commit
 - journal...
+- TP pipelines
 
 #### Pendant le cours
 
@@ -14,7 +15,7 @@ Indications du professeur suivi, découverte de github et de son utilisation en 
 
 #### Après le cours
 
-fiche de devoir
+fiche de devoir git et pipelines
 
 ### Solutions que je veux partager
 
