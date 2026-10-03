@@ -1,0 +1,35 @@
+Exercice 1.a
+echo "Annotations en 2016 :" >> comptes.txt
+cat ann/2016/*/* | wc -l >> comptes.txt
+echo "Annotations en 2017 :" >> comptes.txt
+cat ann/2017/*/* | wc -l >> comptes.txt
+echo "Annotations en 2018 :" >> comptes.txt
+cat ann/2018/*/* | wc -l >> comptes.txt
+mv comptes.txt ../../PPE1-2026/Exercices/
+
+Exercice 1.b
+echo "Annotations de Berlin :" >> locations.txt
+ls img/Berlin | wc -l >> locations.txt
+echo "Annotations de Kyoto :" >> locations.txt
+ls img/Kyoto | wc -l >> locations.txt
+echo "Annotations de Paris :" >> locations.txt
+ls img/Paris | wc -l >> locations.txt
+echo "Annotations de Rome :" >> locations.txt
+ls img/Rome | wc -l >> locations.txt
+echo "Annotations de Taipei :" >> locations.txt
+ls img/Taipei | wc -l >> locations.txt
+echo "Annotations de Tokyo :" >> locations.txt
+ls img/Tokyo | wc -l >> locations.txt
+echo "Annotations de Washington :" >> locations.txt
+ls img/Washington | wc -l >> locations.txt
+mv locations.txt ../../PPE1-2026/Exercices/
+
+Exercice 2.a
+cat ann/2016/*/* | cut -f3 | sort | uniq -c | sort | tail -n 20 >> classement_2016.txt
+cat ann/2017/*/* | cut -f3 | sort | uniq -c | sort | tail -n 20 >> classement_2017.txt
+cat ann/2018/*/* | cut -f3 | sort | uniq -c | sort | tail -n 20 >> classement_2018.txt
+mv classement_201*.txt ../../PPE1-2026/Exercices/
+
+Exercice 2.b
+cat ann/201*/04/* | cut -f3 | sort | uniq -c | sort | tail -n 20 >> classement_avril.txt
+mv classement_avril.txt ../../PPE1-2026/Exercices/
