@@ -24,3 +24,6 @@ fiche de devoir git et pipelines
 ### Questions à discuter
 
 
+## 20/10/2026
+
+# Séance 3 exercices git
