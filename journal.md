@@ -33,3 +33,4 @@ fiche de devoir git et pipelines
 ## 20/10/2026
 
 # Séance 3 exercices git
+Cette ligne doit rester après correction.
