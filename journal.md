@@ -26,7 +26,7 @@ fiche de devoir git et pipelines
 
 ## 20/10/2026
 
-# Séance 3 exercices git
+# Séance 3 exercices git correction d'erreurs
 Cette ligne doit rester après correction.
 
 oups 1
@@ -34,3 +34,5 @@ oups 1
 oups 2
 
 oups 3
+
+Mettre cette ligne de coté
