@@ -34,5 +34,3 @@ oups 1
 oups 2
 
 oups 3
-
-Mettre cette ligne de coté
