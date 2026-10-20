@@ -28,3 +28,9 @@ fiche de devoir git et pipelines
 
 # Séance 3 exercices git
 Cette ligne doit rester après correction.
+
+oups 1
+
+oups 2
+
+oups 3
