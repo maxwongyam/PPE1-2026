@@ -1,9 +1,3 @@
-qdqsdqs
-d
-qsd
-qsdqsdq
-qsddqs
-qsd
 # Journal de bord du projet encadré
 
 ## 30/09/2026
